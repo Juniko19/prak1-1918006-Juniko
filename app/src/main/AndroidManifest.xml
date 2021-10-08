@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pertemuan1_intent_1918006">
         <activity
+            android:name=".segitiga"
+            android:exported="true" />
+        <activity
             android:name=".Biodata"
             android:exported="true" />
         <activity
